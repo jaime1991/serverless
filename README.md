@@ -31,6 +31,9 @@ sls offline
 ```shell
 sls remove
 ```
+<<<<<<< HEAD
 
 Serverless yml Reference
 https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/
+=======
+>>>>>>> a6a27a495c42d6f0f896d337dc91c057da33d55c
